@@ -10,6 +10,8 @@ After going through both the module and the challenge, Dana was able to present 
 
 In order to help Dana create a search for the UFO data, we imported the data into a file titled apps.js and then created a variable (filters) for all of our filters. The next step was to create filter IDs based on the assigned elements that we planned to filter through on our HTML file. Finally, we used a "foreach" statement to loop through the data.
 
+![image](https://user-images.githubusercontent.com/88783255/140666260-16b5e4de-8ca5-4c9b-948d-6e36e95e5bc5.png)
+
 This allowed us to create the following filtered table on the HTML page:
 
 ![image](https://user-images.githubusercontent.com/88783255/140665586-6c25191e-abe9-41f8-bb04-445078f50802.png)
