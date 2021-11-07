@@ -13,3 +13,6 @@ In order to help Dana create a search for the UFO data, we imported the data int
 This allowed us to create the following filtered table on the HTML page:
 
 ![image](https://user-images.githubusercontent.com/88783255/140665586-6c25191e-abe9-41f8-bb04-445078f50802.png)
+
+### Summary
+This module and challenge covered quite a few topics including JavaScript, HTML, and how the two work together. With the d3 command, you're able to make data come to life via HTML and the JavaScript syntax. This particular project was a little complex because it also included adding an interactive tool: the filter. This is something we utilize every day as consumers, and it was interesting to see how the backend works.
